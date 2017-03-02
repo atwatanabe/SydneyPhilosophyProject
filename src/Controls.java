@@ -1,5 +1,4 @@
 
-public enum Controls 
-{
+public enum Controls {
 	LEFT, DOWN, RIGHT, UP, CONFIRM, CANCEL, MENU
 }
