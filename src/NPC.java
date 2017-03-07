@@ -105,7 +105,7 @@ public class NPC extends GameObject {
 			while (s.hasNextLine()) {
 				String temp = s.nextLine();
 				script.add(temp);
-				System.out.println(temp);
+				//System.out.println(temp);
 			}
 			s.close();
 		} catch (IOException e) {
