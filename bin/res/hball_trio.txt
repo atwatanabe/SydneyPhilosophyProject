@@ -1,0 +1,16 @@
+Player 1: Hey, stop asking if you can play or not!
+Player 2: Yeah, you’re just wasting all our time because you always get out anyways.
+Bullied Student: Just give me another chance - I just need practice…
+Player 3: Try coming back when you’re better after practicing by yourself.
+1. [Talk]      2. [Walk away]
+1. [Hey, I don’t think you should do this to him.]   2. [Can I play a game with you guys?] 3. [Walk away]
+Player 1: Huh? Why not? We don’t want him here – he’s bothering us.
+1. [He just wants to have fun. Can’t you let him just play with you?]     2. [Why don’t you want him here?]    3. [You need to pull your head out of your ---.]    4. [Walk away]
+Player 2: He just misses everything and sucks at the game. I don’t want to play with someone who sucks.
+Player 1: Hey. How about this. If you play and you get all of us out, then we’ll let him play with us whenever he wants.
+1.[Well, can the other guy play first since he was here before me?]    2.[It’ll be easy to beat all of you.]    3. [Thanks..?]    4. [Walk away]
+__
+Well, I guess you were better than we thought you were…
+ 1. [It’s only because the other kids at my last school let me practice with them a lot.]   2. [Thanks, I know.]   [Walk away] 
+Player 1: Ok, we get it. We’ll let him practice with us.
+Player 2: You’re a horrible person. But a deal is a deal, he can play with us.

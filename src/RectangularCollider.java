@@ -1,9 +1,13 @@
 import java.util.Observable;
 import java.util.Observer;
 
+/**
+ * 
+ * @author Anthony Watanabe
+ *
+ */
 
-
-public class RectangularCollider implements Observer {
+public class RectangularCollider implements Observer{
 	private Vertex3f location;
 	private Vertex3f dimensions;
 	
@@ -28,12 +32,22 @@ public class RectangularCollider implements Observer {
 		this.dimensions = dimensions;
 	}
 
+	/*
+	 * checks if this collider intersects with @other collider
+	 * only works with rectangular colliders that have horizontal/vertical sides
+	 */
 	public boolean intersects(RectangularCollider other) {
-		double xDist = Math.abs(location.getX() - other.getLocation().getX())
-					- 0.5 * (dimensions.getX() + other.getDimensions().getX());
-		double yDist = Math.abs(location.getY() - other.getLocation().getY())
+		return getXDist(other) <= 0 && getYDist(other) <= 0;
+	}
+
+	public double getYDist(RectangularCollider other) {
+		return Math.abs(location.getY() - other.getLocation().getY())
 					- 0.5 * (dimensions.getY() + other.getDimensions().getY());
-		return xDist <= 0 && yDist <= 0;
+	}
+
+	public double getXDist(RectangularCollider other) {
+		return Math.abs(location.getX() - other.getLocation().getX())
+					- 0.5 * (dimensions.getX() + other.getDimensions().getX());
 	}
 	
 	public void update(Observable o, Object arg){
@@ -41,4 +55,5 @@ public class RectangularCollider implements Observer {
 		location.setX(vehicle.getLocation().getX());
 		location.setY(vehicle.getLocation().getY());
 	}
+
 }

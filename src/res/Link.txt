@@ -1,0 +1,38 @@
+You: [Talk]  [Poke]  [Stare]  [Walk away]
+Link: 
+Talk: ...he does not respond to you.
+Poke: ...don’t touch me.
+Stare: …you know I can feel you staring at me.
+You: RESPONSES
+Talk: [Are you sleeping?]  [You’re going to get sunburned if you stay out here for a long time you know.]   [Why are you out here by yourself?]   [Walk away]
+Poke: [Ok, sorry about that.] [Poke again.]   [Walk away]
+Stare: [Oh, sorry about that.]  [Keep staring.]  [Walk away]
+Link: 
+Talk: [No, I’m not. I just like being alone.]  [I know. It’s fine.]   [Because I like to be by myself.]
+Poke: Hey, will you stop that? I don’t like it when you keep doing that.
+Stare: Uh, are you still staring? Can you stop? 
+You: 
+Talk: [Are you suuuuure?]  [You look a little sad to me…Wanna talk?] [I’m pretty sure you’re lying…Can we talk a little?] [Walk away]
+Poke: [TALK TO ME!!!] [Just wanted to talk a little is all…] [I’m going to keep poking you until you talk to me.] [Walk away]
+Stare: [I’ll stop if you talk to me!]   [Staring at people is my hobby.]  [Walk away.]
+Link:
+Talk: […-gets up with a sad face- Ok, fine. I don’t like being alone. I just feel like I don’t fit in.] 
+YOU: [Well, why don’t you feel like you fit in?]  [ You know, I’m actually new to this school too so I can relate to you.]  [You just gotta put yourself out there!]  [Walk away]
+LINK: [Nobody likes doing what I like to do. I don’t really like activities with physical contact either.] 
+YOUR RESPONSE: 
+[What do you like to do for fun?]  [Have you told anyone what you like to do..?]  [Walk away]
+LINK: [I like to…play on bars. The ones you flip on. I take gymnastics so it’s fun for me.]  […No, not really.]
+YOUR RESPONSE: 
+[Wow…you were right – you don’t fit in!]  [That sounds fun! I haven’t tried that before.]  [That is so cool! Can you teach me sometime?]  [Walks away]
+LINK:[...goes back to ground.].  [..Really? I can teach you sometime...]  [...Really? Yeah, I can teach you sometime...]
+YOU: [Yeah, it sounds crazy!]  [Seriously? You’re awesome!]  [No I was just joking.]  [Walk away]
+LINK: [...Hey, you know, I’m really happy that you talked to me. It really made my day. I’ll try to go out to talk to other people about this too. Maybe they’ll like it like you did.] 
+
+[Oh…you are? You’re really nice haha.]  [I’m not one to put myself out there.]  
+[…Ok, fine. What is it?]  
+YOU:[Hmm…Well, what do you like to do for fun?]  [So…What are your hobbies?]   [Walks away]
+LINK:[…Ok fine, I was lying. What do you want?]
+Poke: [...Go away please.] 
+Stare: [...Go away please.] 
+ 
+

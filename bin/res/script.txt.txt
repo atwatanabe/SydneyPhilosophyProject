@@ -1,0 +1,107 @@
+TEACHER AT THE BEGINNING: 
+Teacher: Welcome back to your second week here, ______! I know you’re still quite new to this school as a recent transfer student, so go ahead and take your time getting used to it here. Feel free to ask me any questions you have.
+AFTER ALL OF THE SCENARIOS ARE DONE: 
+Teacher: I see you’re back, ____. How was it today?
+You: [It was really good!]  [Today had a lot of surprises.]  [It was so tiring!]  [Walk away]
+Teacher: [Oh really? What happened today?] (for all of these)
+You: (I’m not sure if you can make a text box where we can type our answers but I think this will be the last thing that is done before one more line from the teacher)
+Teacher: Wow! You sure did a lot today! I’m really glad you’re getting used to it here. This place is your new home, so always feel free to come to me for anything you ever need, alright?
+THE END (THE REAL END!!!)
+
+Handball court situation: There are 3 guys, whom of which don’t want the other guy on the sideline to join because he’s bad at the game and he just wastes time cuz he always gets out immediately again. These 3 guys are good friends so they don’t care about the other dude. 
+P1,P2,P3 = player1,2,3 (those npcs). Y = your responses you can choose. B = bullied guy
+CUT SCENE: P1: Hey, stop asking if you can play or not!
+P2: Yeah, you’re just wasting all our time because you always get out anyways.
+B: Just give me another chance - I just need practice…
+P3: Try coming back when you’re better after practicing by yourself.
+Y: [Talk]      [Walk away]
+TALK:
+Y: 1. [Hey, I don’t think you should do this to him.]   2. [Can I play a game with you guys?]
+3. [Walk away]
+Them: 1. Huh? Why not? We don’t want him here – he’s bothering us.
+2. I haven’t seen you around…but I guess letting you try once won’t hurt.
+Response 1: 1. [He just wants to have fun. Can’t you let him just play with you?] 2. [Why don’t you want him here?]   3. [You need to pull your head out of your ---.]   4. [Walk away]
+Response 2: 1.[Well, can the other guy play first since he was here before me?]   2.[It’ll be easy to beat all of you.]  3. [Thanks..?]   [Walk away]
+Them 1: 1. Hey. How about this. If you play and you get all of us out, then we’ll let him play with us whenever he wants.
+2. He just misses everything and sucks at the game. I don’t want to play with someone who sucks.
+3. Wow, ok you can go away now. We don’t want to play with you. ENDS TALKING BTWN CHARACTERS
+Them 2: 1. Hey. How about this. IF you play and you get all of us out, then we’ll let him play with us whenever he wants.
+2. Let’s see if you actually will! Game starts
+3. Game starts
+Response 2: [Sounds good.]   [Time to kick some ---.]  [Walk away]
+GAME RULES: told by NPCs (not sure what mechanics you plan to use)
+GAME STARTS.
+If you win by ousting all three of them… (tbh idk if you want to make this rigged where you’ll always win)
+WIN: 
+Them: Well, I guess you were better than we thought you were…
+Response 1: 1. [It’s only because the other kids at my last school let me practice with them a lot.]   2. [Thanks, I know.]   [Walk away] 
+Them: 1. Ok, we get it. We’ll let him practice with us.  2. You’re a horrible person. But a deal is a deal, he can play with us.
+END
+Basketball court situation: There are 3 kids on the court, and they can’t play basketball like that. But then there is another person on the sidelines who’d like to join: a small girl 
+CUTSCENE:
+Them: P!: Look, we really don’t want you to play with us. P2: Yeah, we’ll just have three people.
+Black Girl: Well…why can’t I play and make it an even team?
+P3: Uh, because you’re a girl and the team with the girl on it is obviously going to lose..?
+You: [Talk]   [Walk away]
+TALK:
+You:  1. [Hey, that’s not cool!]   2. [Well, how do you know she’s bad just because she’s a girl?]   3. [Walk away]
+Them: 1. What? It’s true. Girls aren’t good at shooting hoops.  2. Because every girl we’ve seen and played with is horrible at shooting hoops.
+You: 1. &2. responses [Well, why don’t you just let us try before judging?]  [You guys are scum]  [Actually, I’m pretty good at it, and this girl also happens to be my friend, and we practice all the time.] [Walk away]
+Them: 1. Fine then, go ahead. If you can shoot 5 hoops in a row, we’ll let your friend join. 
+2. …Yeah, go away. We don’t want to play with you. CONVERSATION ENDS
+
+MINI GAME STARTS
+
+MINI GAME ENDS:
+Them: …fine,  your friend can play. Happy now?
+You: 1. [Yeah, I am happy I proved you guys wrong.]  2. [I just hope you guys stop grouping all girls together.]  3. [Walk away]
+Them: 1. …ok, can you leave now? Bye. CONVERSATION ENDS
+2. What do you mean by that?
+You:  [Some girls might be bad at this, some girls might be good.]  [We’re all different, and we all have different talents.]  [Not all of us suck at basketball, ok?]  [Walk away]
+Them: P1: Yeah, I can see that. P2: You’re better at shooting than he is! P3: Hey! I’m better at doing assists than you at least!
+You: 1. [See, even you guys have different skills.]  [Yeah, see my point yet]  [Walk away]
+Them: P1: Yeah, we do see what you mean now…thanks for telling us. Hey! Let’s all play. 
+SCENE ENDS
+
+Loner toon link: 
+You: 1. [Talk]  2. [Poke]   3. [Stare]  4. [Walk away]
+Link: 
+Talk: ….. he does not respond to you.
+Poke: ...don’t touch me.
+Stare: …you know I can feel you staring at me.
+You: RESPONSES
+Talk: [Are you sleeping?]  [You’re going to get sunburned if you stay out here for a long time you know.]   [Why are you out here by yourself?]   [Walk away]
+Poke: [Ok, sorry about that.] (if you apologize the conversation ends and you have to choose another route)  [Poke again.]   [Walk away]
+Stare: [Oh, sorry about that.] (same as above)  [Keep staring.]  [Walk away]
+Link: 
+Talk: [No, I’m not. I just like being alone.]  [I know. It’s fine.]   [Because I like to be by myself.]
+Poke: Hey, will you stop that? I don’t like it when you keep doing that.
+Stare: Uh, are you still staring? Can you stop? 
+You: 
+Talk: [Are you suuuuure?]  [You look a little sad to me…Wanna talk?] [I’m pretty sure you’re lying…Can we talk a little?] [Walk away]
+Poke: [TALK TO ME!!!] [Just wanted to talk a little is all…] [I’m going to keep poking you until you talk to me.] [Walk away]
+Stare: [I’ll stop if you talk to me!]   [Staring at people is my hobby.]  [Walk away.]
+Link:
+Talk: […-gets up with a sad face- Ok, fine. I don’t like being alone. I just feel like I don’t fit in.] 
+YOU: [Well, why don’t you feel like you fit in?]  [ You know, I’m actually new to this school too so I can relate to you.]  [You just gotta put yourself out there!]  [Walk away]
+LINK: [Nobody likes doing what I like to do. I don’t really like activities with physical contact either.] 
+YOUR RESPONSE: 
+[What do you like to do for fun?]  [Have you told anyone what you like to do..?]  [Walk away]
+	LINK: [I like to…play on bars. The ones you flip on. I take gymnastics so it’s fun for me.]  […No, not really.] (this second response from link will trigger the loop back to your question of: What do you like to do for fun? And the only other option would be to walk away.) (after that question is answered, it will go to Link saying “I like to…play on bars….” This exact response up in this paragraph.)
+YOUR RESPONSE: 
+[Wow…you were right – you don’t fit in!]  [That sounds fun! I haven’t tried that before.]  [That is so cool! Can you teach me sometime?]  [Walks away]
+LINK:
+[…goes back to ground- conversation ends].  [..Really? I can teach you sometime….-goes to smile-]  […Really? Yeah, I can teach you sometime… -goes to smile on face-]
+YOU: (to both the responses link has): [Yeah, it sounds crazy!]  [Seriously? You’re awesome!]  [No I was just joking.]  [Walk away]
+LINK: [...Hey, you know, I’m really happy that you talked to me. It really made my day. I’ll try to go out to talk to other people about this too. Maybe they’ll like it like you did.] CONVERSATION ENDS
+
+[-face goes from sad to neutral- Oh…you are? You’re really nice haha.]  [I’m not one to put myself out there.]  
+[…-gets up with sad face- Ok, fine. What is it?]  
+YOU
+[Hmm…Well, what do you like to do for fun?]  [So…What are your hobbies?]   [Walks away]
+LINK: (the first response chosen leads to the loop of what link says when he likes to play on bars, then it loops around to the same ending and response choices. Same with the hobbies option if chosen.) 
+[…-gets up with sad face- Ok fine, I was lying. What do you want?] (all of this will be the same as what is labeled up there for options, then loops again through the conversation above.
+Poke: […..Go away please.] CONVERSATION ENDS
+Stare: […..Go away please.] CONVERSATION ENDS
+
+Other loner: 
